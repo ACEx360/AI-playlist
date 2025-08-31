@@ -21,3 +21,10 @@ Sometimes you’ll upgrade packages a lot. If things break, you can quickly wipe
 ---
 
 Want me to show you a **3-command reset script** you can run anytime to nuke your venv and rebuild it fresh with the same packages?
+
+
+
+https://python.langchain.com/docs/integrations/vectorstores/
+
+##### Python tools documentation
+https://python.langchain.com/docs/integrations/tools/
