@@ -1,4 +1,9 @@
 # AI-playlist
 
 ## Langchain 
-LangChain helps you build AI apps by chaining together LLMs, tools, and memory — now I’m moving to LangGraph for building more structured, stateful AI agents
+I wrapped up my LangChain basics!
+From chaining LLMs, tools, and memory to building simple AI agents — it’s been a solid foundation. 
+
+## Next up: LangGraph 
+Ready for making production ready agents
+
