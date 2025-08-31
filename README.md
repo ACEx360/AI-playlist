@@ -1,2 +1,4 @@
 # AI-playlist
-these are coding tutorials and projects in my AI journey
+
+## Langchain 
+LangChain helps you build AI apps by chaining together LLMs, tools, and memory — now I’m moving to LangGraph for building more structured, stateful AI agents
