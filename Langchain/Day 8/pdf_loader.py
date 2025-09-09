@@ -2,7 +2,7 @@
 #link  = https://python.langchain.com/docs/concepts/document_loaders/
 from langchain_community.document_loaders import PyPDFLoader
 
-loader = PyPDFLoader("Day 8\Example files\dl-curriculum.pdf")
+loader = PyPDFLoader("Langchain\Day 8\Example files\dl-curriculum.pdf")
 
 doc = loader.load()
 

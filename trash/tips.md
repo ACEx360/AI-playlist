@@ -28,3 +28,40 @@ https://python.langchain.com/docs/integrations/vectorstores/
 
 ##### Python tools documentation
 https://python.langchain.com/docs/integrations/tools/
+
+
+
+
+### Previous requirements.txt
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Website
+streamlit
+
+pydantic
+pydantic[email]

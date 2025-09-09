@@ -1,7 +1,7 @@
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 
-loader = PyPDFLoader("Day 9/example files/dl-curriculum.pdf")
+loader = PyPDFLoader("Langchain\Day 9\example files\dl-curriculum.pdff")
 doc = loader.load()
 
 text = """One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear.
